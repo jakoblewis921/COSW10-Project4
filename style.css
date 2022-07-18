@@ -1,0 +1,87 @@
+header {
+    text-align: center;
+    padding: 0% 5% 0% 5%;
+    margin: 0;
+    font-size: 1.0em;
+}
+#hero {
+ display:block;
+ padding-left: 10px;
+ margin-left: 5%;
+ margin-right: auto;
+ width: 50%;
+}
+body {
+    font-family: "Lato", sans-serif;
+    color: black ;
+}
+ul {
+    list-style-type: none;
+    padding: 8px;
+    margin: 0;
+    background-color: Silver; 
+}
+nav {
+    margin: 0;
+}
+li {
+    display: inline;
+    font-size: 1.0em;
+    font-family: Arial;
+    line-height: 55px;
+}
+li a {
+    text-decoration: none;
+    color: light grey;
+    padding: 20px 40px;
+}
+li a: hover {
+    background-color: white;
+    color: black;
+}
+h1 {
+    text-align: center;
+    font-size: 2em;
+    font-family: "Montserrat",sans-serif;
+}
+h2 {
+    font-family: "Montserrat", sans-serif;
+}
+h3 {
+    font-family: "Montserrat", sans-serif;
+}
+#Attractions {
+width: 300px;
+float: right;
+margin: 10px;
+}
+
+#Map{
+    width: 300px;
+    float: right;
+    margin: 10px;
+}
+article {
+    clear:both;
+    overflow: auto;
+    width: 100%;
+}
+hgroup {
+    margin-top: 40px;
+}
+figure {
+    float:left;
+    width:50px;
+    height: 220px;
+    padding: 5px;
+    margin: 10px;
+    text-align: left;
+}
+figcaption {
+    font-size: 90%;
+    text-transform: left;
+}
+footer {
+    text-align: center;
+    clear: both;
+}
